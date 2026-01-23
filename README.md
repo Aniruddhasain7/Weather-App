@@ -22,13 +22,13 @@ The app allows users to search for any city and view real-time weather informati
 - **HTML** – Structure of the application  
 - **CSS** – Styling and responsive layout  
 - **JavaScript** – Logic, API calls, and DOM manipulation  
-- **OpenWeather API** – Fetches real-time weather data
+- **OpenWeatherMap API** – Fetches real-time weather data
 
 ---
 
 ## 🔑 About the API Key
 
-This project uses the **OpenWeather API** to fetch weather data.
+This project uses the **OpenWeatherMap API** to fetch weather data.
 
 For security reasons, the API key has **NOT been included** in this repository.
 
